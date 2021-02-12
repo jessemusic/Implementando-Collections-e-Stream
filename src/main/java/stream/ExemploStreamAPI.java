@@ -13,7 +13,7 @@ public class ExemploStreamAPI {
         //Cria a a coleção de estudantes
         List<String> estudantes = new ArrayList<>();
 
-        // Adiciona 4 estudantes para a coleção
+        // Adiciona 10 estudantes para a coleção
         estudantes.add("Pedro");
         estudantes.add( "Wilton" );
         estudantes.add( "Jesse" );
