@@ -1,0 +1,34 @@
+set/ExamploHashSet.java
+ set.ExamploHashSet
+Camparators/ComparatorsExemplosList.java
+ Camparators.ComparatorsExemplosList
+map/ExerciciosEstadosDoBrasil.java
+ map.ExerciciosEstadosDoBrasil
+Optional/ExemploOptional.java
+ Optional.ExemploOptional
+set/ExamploTreeSet.java
+ set.ExamploTreeSet
+map/ExemploHashTable.java
+ map.ExemploHashTable
+list/ExemploList.java
+ list.ExemploList
+Camparators/EstudantesOrdemIdadeReversaComparator.java
+ Camparators.EstudantesOrdemIdadeReversaComparator
+queue/ExemploLinkedList.java
+ queue.ExemploLinkedList
+map/ExemploTreeMap.java
+ map.ExemploTreeMap
+Optional/ExemploOptionalEstados.java
+ Optional.ExemploOptionalEstados
+map/ExemploHashMap.java
+ map.ExemploHashMap
+Camparators/Estudantes.java
+ Camparators.Estudantes
+set/ExercicioSet.java
+ set.ExercicioSet
+set/ExamploLinkedHashSet.java
+ set.ExamploLinkedHashSet
+Optional/ExemploOtionalPrimitivos.java
+ Optional.ExemploOtionalPrimitivos
+stream/ExemploStreamAPI.java
+ stream.ExemploStreamAPI
